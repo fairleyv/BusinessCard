@@ -17,7 +17,7 @@ export default function Info () {
                     <img src={emailIcon}className="emailIcon"/>Email</a>
                 </btn>
                 <btn className="linkedInBtn">
-                    <a href="www.linkedin.com/in/vincent-fairley">
+                    <a href="https://www.linkedin.com/in/vincent-fairley">
                     <img src={linkedinIcon} className="linkedInIcon"/>Linkedin</a>
                 </btn>
             </div>
