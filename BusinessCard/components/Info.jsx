@@ -1,11 +1,12 @@
 import React from "react";
 import emailIcon from "../src/assets/email.png";
 import linkedinIcon from "../src/assets/linkedin.png";
+import profilePic from "../src/assets/profilePic.jpeg";
 
 export default function Info () {
     return (
         <div>
-            <img className="personalPhoto"/>
+            <img src={profilePic} className="personalPhoto"/>
             <div className="personalInfo">
                 <h3 className="name">Name</h3>
                 <h4 className="job">Job Title</h4>
