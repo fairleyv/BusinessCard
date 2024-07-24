@@ -8,8 +8,8 @@ export default function Info () {
         <div>
             <img src={profilePic} className="personalPhoto"/>
             <div className="personalInfo">
-                <h3 className="name">Name</h3>
-                <h4 className="job">Job Title</h4>
+                <h3 className="name">Vincent (Trevez) Fairley</h3>
+                <h4 className="job">Full Stack Developer</h4>
             </div>
             <div className="infoBtns">
                 <btn className="emailBtn">
