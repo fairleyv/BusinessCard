@@ -5,7 +5,7 @@ export default function Footer () {
     return (
         <div className="footer">
             <p className="portfolioSite">https://fairleyvincent.com</p>
-            <btn className="githubBnt">
+            <btn className="githubBtn">
                 <a href="https://github.com/fairleyv">
                     <img src={githubIcon} className="githubIcon"/>  
                 </a>

@@ -76,3 +76,19 @@ a {
 .paragraph {
     color: #4A4E74;
 }
+
+.footer {
+    background-color: #D5D4D8 ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.portfolioSite {
+    font-size: 1.5rem;
+    color: #918E9B;
+}
+
+.githubBtn img {
+    width: 70px;
+}
