@@ -17,7 +17,7 @@ a {
 
 .name {
     color: #2B283A;
-    font-size: 4rem;
+    font-size: 3.5rem;
     text-align: center;
 
 }
@@ -62,4 +62,17 @@ a {
     text-align: center;
     font-size: 2rem;
     color: #374151;
+}
+
+.section {
+    margin: 0rem 3rem;
+}
+
+.subheading {
+    font-size: 1.5rem;
+    line-height: 0px;
+}
+
+.paragraph {
+    color: #4A4E74;
 }
