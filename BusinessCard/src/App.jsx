@@ -9,10 +9,12 @@ function App() {
 
   return (
     <>
-      <Info />
-      <About />
-      <Interests />
-      <Footer />
+      <card className="businessCard">
+          <Info />
+          <About />
+          <Interests />
+          <Footer />
+      </card>
     </>
   )
 }
