@@ -6,7 +6,7 @@ import Footer from "../components/Footer"
 
 export default function Card () {
     return (
-    <div>
+    <div className="container">
         <div className="businessCard">
             <Info />
             <About />
