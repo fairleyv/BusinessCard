@@ -17,8 +17,9 @@ a {
     background-color: #f5f5f5;
     border-radius: 30px;
     width: 75%;
-    min-width: 75%;
+    min-width: 400px;
     overflow: hidden;
+    max-width: 700px;
 }
 
 .personalPhoto {
