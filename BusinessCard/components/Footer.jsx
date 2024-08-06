@@ -7,7 +7,7 @@ export default function Footer () {
             <p className="portfolioSite">https://fairleyvincent.com</p>
             <btn className="githubBtn">
                 <a href="https://github.com/fairleyv">
-                    <img src={githubIcon} className="githubIcon"/>  
+                    <img src={githubIcon} className="githubIcon" alt="an icon of the Github logo"/>  
                 </a>
             </btn>
         </div>
