@@ -1,8 +1,56 @@
-# React + Vite
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Personal Business Card 
 
-Currently, two official plugins are available:
+## Description 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+	 A personal business card website built using react that describes myself and some of my interests. The portfolio website at the bottom of the business card is currently in production. Going to the site will not work at the moment. I'll update this as soon as that changes.  
+
+## Table of Contents
+
+  [Description](#description)
+
+  [Installation](#installation)
+
+  [Usage](#usage)
+
+  [Credits](#credits)
+
+  [License](#license)
+
+  [Contributions](#contributions)
+
+  [Tests](#tests)
+
+  [Questions](#questions)
+## Installation
+
+First type "cd businessCard" to navigate to the the proper file. Then install the required dependencies using "npm i" in the console. Afterwards run "npm run dev" to run this project on your local machine. 
+
+## Usage 
+
+Navigate to the port provided after running "npm run dev" by either clicking on the link or posting that link into your chosen browser. 
+
+## Credits 
+
+I got the ideas and design details from the scrimba react course by Bob Ziroll. You can access the course for free at "https://v2.scrimba.com/learn-react-c0e". Scrimba is a great resource for furthering your knowledge of web development or even getting a refresher on certain things. They offer a lot of free classes and tutorials. 
+
+## License 
+
+This project is covered under the MIT license. 
+ 
+## Contributions 
+
+If you'd like to get in contact with me for any questions or ideas about current, past, or future projects feel free to message me at either my github or email both provided below.  
+
+## Tests 
+
+N/A
+
+## Questions 
+
+For any questions regarding this project please contact me at my -
+
+GitHub: [fairleyv](https://github.com/fairleyv) 
+
+Email: fairleyvincent@gmail.com
