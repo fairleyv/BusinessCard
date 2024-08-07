@@ -4,7 +4,7 @@
 
 ## Description 
 
-	 A personal business card website built using react that describes myself and some of my interests.  
+	 A personal business card website built using react that describes myself and some of my interests. The portfolio website at the bottom of the business card is currently in production. Going to the site will not work at the moment. I'll update this as soon as that changes.  
 
 ## Table of Contents
 
