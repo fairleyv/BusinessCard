@@ -25,7 +25,7 @@
   [Questions](#questions)
 ## Installation
 
-First type "cd businessCard" to navigate to the the proper file. Then install the required dependencies using "npm i" in the console. Afterwards run "npm run dev" to run this project on your local machine. 
+Install the required dependencies using "npm i" in the console. Afterwards run "npm run dev" to run this project on your local machine. 
 
 ## Usage 
 
