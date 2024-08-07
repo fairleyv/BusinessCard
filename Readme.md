@@ -25,11 +25,14 @@
   [Questions](#questions)
 ## Installation
 
-Install the required dependencies using "npm i" in the console. Afterwards run "npm run dev" to run this project on your local machine. 
+Install the required dependencies using "npm i" in the console. Afterwards run "npm run dev" to run this project on your local machine. Navigate to the port provided after running "npm run dev" by either clicking on the link or posting that link into your chosen browser. 
+
+You can find the site deployed "https://business-card-bsbxtp531-vincents-projects-18fb3f91.vercel.app". If you create a free account with vercel you'll be able to view the site. 
+
+You can also find the site deployed at "https://businesscard-432i.onrender.com/" if you would rather not sign up for an account with Vercel. 
 
 ## Usage 
-
-Navigate to the port provided after running "npm run dev" by either clicking on the link or posting that link into your chosen browser. 
+This is an online business card that details some of my interests and aspirations. A quick way to get to know me. 
 
 ## Credits 
 
