@@ -5,6 +5,11 @@
 ## Description 
 
 	 A personal business card website built using react that describes myself and some of my interests. The portfolio website at the bottom of the business card is currently in production. Going to the site will not work at the moment. I'll update this as soon as that changes.  
+  
+<img width="956" alt="BusinessCard(dark)" src="https://github.com/user-attachments/assets/aa92225f-4da8-4621-9952-697db4e27eda">
+
+<img width="960" alt="BusinessCard(light)" src="https://github.com/user-attachments/assets/7b836aaa-74d8-429d-b5bf-e682bf909121">
+
 
 ## Table of Contents
 
@@ -23,6 +28,7 @@
   [Tests](#tests)
 
   [Questions](#questions)
+  
 ## Installation
 
 Install the required dependencies using "npm i" in the console. Afterwards run "npm run dev" to run this project on your local machine. 
